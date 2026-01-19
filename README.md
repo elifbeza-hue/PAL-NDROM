@@ -1,5 +1,5 @@
 # PAL-NDROM
-ürünün palindrom olup olmadığını belirleyen kod
+girdinin palindrom olup olmadığını belirleyen kod
 package lessoneleven;
 
 import java.util.Scanner;
